@@ -1,0 +1,34 @@
+nav{
+    width:100%;
+    height:70px;
+    background-color: transparent;
+   
+   
+    .flex{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+        .logo{
+          margin-left: 35%;
+          cursor: pointer;
+          img{
+            width: 140px;
+            height:40px; 
+          }
+        }
+
+        .sidebar{
+            
+            .sp{
+                width: 44px;
+                height:20px;
+                
+            }
+        }
+      
+    
+    }
+
+}
+

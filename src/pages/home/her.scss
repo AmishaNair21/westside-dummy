@@ -1,0 +1,28 @@
+.hero-section{
+   .office{
+    height:400px;
+    width:100%;
+    h2{
+        text-align: center;
+        font-family:sans-serif ;
+    }
+    
+   }
+
+   .oversize{
+    margin-top: 90px;
+    h2{
+      
+        text-align: center;
+        font-family:sans-serif ;
+    }
+   }
+
+}
+img{
+    object-fit:contain;
+    width: 100%;
+    height: 400px;
+    cursor: pointer;
+   
+}
